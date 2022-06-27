@@ -5,10 +5,10 @@
 ---
 ### Screenshots
 
-![screenshot of face](Assets/sc1.jpg)
-![screenshot of first button press](Assets/sc2.jpg)
-![screenshot of config and generating pw](Assets/scays.jpg)
-![screenshot of restart](Assets/scres.jpg)
+![screenshot of face](Assets/sc1.png)
+![screenshot of first button press](Assets/sc2.png)
+![screenshot of config and generating pw](Assets/scays.png)
+![screenshot of restart](Assets/scres.png)
 
 
 ---
