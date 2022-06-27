@@ -7,7 +7,7 @@
 
 ![screenshot of face](Assets/sc1.png)
 ![screenshot of first button press](Assets/sc2.png)
-![screenshot of config and generating pw](Assets/scays.png)
+![screenshot of config and generating pw](Assets/scsays.png)
 ![screenshot of restart](Assets/scres.png)
 
 
